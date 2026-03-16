@@ -1,6 +1,6 @@
-# Nubank PDF A4 Converter
+# PDF Longpage to A4
 
-Este projeto é um utilitário especializado em converter informes de rendimentos do Nubank que utilizam o formato de "scroll longo" (páginas contínuas de grande altura) em documentos formatados no padrão A4, prontos para impressão e arquivamento profissional.
+Este projeto é um utilitário especializado em converter documentos PDF de "scroll longo" (como os informes de rendimentos do Nubank) em PDFs formatados no padrão A4, prontos para impressão e arquivamento profissional.
 
 ## Funcionalidades
 
